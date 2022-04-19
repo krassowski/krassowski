@@ -2,6 +2,8 @@
 
 *Please* consider donating to charities to save lives in 🇺🇦.
 
+<details>
+
 | Country | Link | Donation efficiency | Currency/method | Aid type | Description |
 | -- | -- | -- | -- | -- | -- | 
 | 🇪🇺/🇵🇱 | https://en.ing.pl/company-profile/help-ukraine | 200% | EUR, PLN | Humanitarian | Polish branch of the ING Group doubles donations until the end of March; all funds go to [Polish Humanitarian Action](https://www.pah.org.pl/en/) and [UNICEF Poland](https://unicef.pl/chce-pomoc/nasze-akcje/pomoc-dla-ukrainy) |
@@ -21,3 +23,5 @@ Pragmatically this situation also affects my ability to contribute to open sourc
 - while you can do your own research in the Anglosphere; I am offering a list of tripple-checked suggestions for fundraisers which offer better bang for your buck or may be less prominently advertised or not easily discoverable from English sources,
 - most supplies are [routed through](https://razomforukraine.org/38-tons-on-the-way/) or [bought in](https://razomforukraine.org/supplies-from-poland/) Poland either way; buying locally is simply cheaper (lower transport cost, lower price to begin with),
 - delivering material aid from certain countries, like the UK, is hindered by [logistical and legal problems](https://www.theguardian.com/politics/2022/mar/09/brexit-red-tape-stopping-small-charities-getting-supplies-to-ukraine).
+
+ </details>
